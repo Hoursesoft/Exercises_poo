@@ -1,0 +1,51 @@
+Ejercicio: Sistema de gestión de una tienda de libros
+Imagina que estás desarrollando una pequeña tienda de libros. El sistema necesita manejar los libros disponibles en la tienda, los clientes que compran libros y las transacciones que ocurren.
+
+Requisitos:
+
+Clase Libro:
+
+Atributos: título, autor, precio.
+
+Métodos: mostrar información del libro.
+
+Clase Cliente:
+
+Atributos: nombre, correo electrónico, lista de libros comprados.
+
+Métodos:
+
+Agregar un libro a la lista de compras.
+
+Mostrar la lista de libros comprados.
+
+Calcular el total gastado en la tienda.
+
+Clase Tienda:
+
+Atributos: nombre de la tienda, lista de libros disponibles.
+
+Métodos:
+
+Mostrar todos los libros disponibles.
+
+Vender un libro a un cliente (agregarlo a su lista de compras).
+
+Mostrar el total de ventas realizadas.
+
+¿Qué vas a practicar?
+Creación de clases y objetos.
+
+Métodos y atributos.
+
+Relaciones entre clases.
+
+Manejo de listas y cálculos simples.
+
+
+Pasos:
+Crea las clases con sus atributos y métodos.
+
+Implementa el flujo de la tienda, clientes y ventas.
+
+Agrega validaciones y mejoras si lo deseas (por ejemplo, comprobar si un libro ya ha sido comprado por un cliente).
